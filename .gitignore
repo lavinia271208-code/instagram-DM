@@ -33,7 +33,24 @@ google-services.json
 # Android Profiling
 *.hprof
 
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+build/
+captures/
+
 # VS Code
 .vscode/
 .history/
-*.code-workspace
+
+# Arquivos do Sistema
+.DS_Store
+Thumbs.db
+
+# Mobile específico (se for Flutter/React Native)
+node_modules/
+.dart_tool/
+.packages
