@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
